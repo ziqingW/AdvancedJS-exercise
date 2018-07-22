@@ -1,2 +1,9 @@
 # AdvancedJS-exercise
-Exercises for advanced JS
+
+Exercises for the class of advanced JavaScript from DigitalCrafts
+
+All codes were in JS
+
+Including:
+- Closure
+- Objects
